@@ -1088,3 +1088,11 @@ img,video {
 	bottom: 10px;
     margin-left: 10px;
 }
+
+
+#source {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 12px;
+}
